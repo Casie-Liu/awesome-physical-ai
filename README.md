@@ -126,8 +126,8 @@ A curated list of academic papers and resources on **Physical AI** — focusing 
 - **π\*0.6**: "π\*0.6: a VLA That Learns From Experience", *Physical Intelligence, Nov 2025*. [[Paper](https://arxiv.org/abs/2511.14759)] [[Blog](https://www.physicalintelligence.company/blog/pistar06)]
 
 - **GR-3**: "GR-3 Technical Report", *ByteDance Seed, Jul 2025*. [[Paper](https://arxiv.org/abs/2507.15493)] [[Project](https://seed.bytedance.com/GR3)]
-- **Wall-OSS**: "Igniting VLMs toward the Embodied Space", *Galbot, Sep 2025*. [[Paper](https://arxiv.org/abs/2509.11766)]
-  - Open-source dual-system VLA (System 2 reasoning + System 1 flow-matching action) with weights and training recipes released.
+- **Wall-OSS**: "Igniting VLMs toward the Embodied Space", *Galbot, Sep 2025*. [[Paper](https://arxiv.org/abs/2509.11766)] [[Code](https://github.com/X-Square-Robot/wall-x)]
+  - Open-source, tightly-coupled VLA with unified cross-embodiment chain-of-thought and a two-stage recipe (discrete action priors, then flow-matching control); weights and recipes released.
 
 - **MolmoAct**: "MolmoAct: Action Reasoning Models that can Reason in Space", *Allen Institute for AI (AI2), Aug 2025*. [[Paper](https://arxiv.org/abs/2508.07917)] [[Code](https://github.com/allenai/molmoact)]
   - Action Reasoning Model that emits explicit depth perception, reasoning, and action token sequences; data, weights, and code fully open.
